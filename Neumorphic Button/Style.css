@@ -8,7 +8,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: none;
+    background: #e8e8e8;
 }
 
 button {
